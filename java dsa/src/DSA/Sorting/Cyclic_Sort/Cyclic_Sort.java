@@ -1,6 +1,7 @@
 package DSA.Sorting.Cyclic_Sort;
 
 import java.util.Arrays;
+// work for continuous number mainly
 
 public class Cyclic_Sort {
     public static void main(String[] args) {
